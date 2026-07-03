@@ -1,4 +1,4 @@
-# Greetings! I'm d1vZ5107 👋
+# Hi! I'm d1vZ5107👋
 
 I am 15 years old. Currently, I am finishing my education in the ninth grade at a lyceum and focused on preparing for the next step in my academic journey. My primary short-term goal is to successfully enroll in a technical college, specializing in an IT program to eventually become a software engineer or a system administrator.
 
