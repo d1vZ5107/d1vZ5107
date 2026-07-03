@@ -17,10 +17,10 @@ I deeply believe that raw school theory without real practical application has v
 
 ### 🚀 My Specific Goals for the 2026–2027 Academic Year
 
-* [ ] Maximize my school performance and achieve a stable grade point average (GPA) of 3.8 or higher.
-* [ ] Well-prepare for and pass my school IT exams (OGE) with top marks.
-* [ ] Master the basic syntax of the Python programming language to automate routine tasks on my server.
-* [ ] Continue scaling my home IT laboratory and begin exploring database management systems.
+* [-] Maximize my school performance and achieve a stable grade point average (GPA) of 3.8 or higher.
+* [-] Well-prepare for and pass my school IT exams (OGE) with top marks.
+* [-] Master the basic syntax of the Python programming language to automate routine tasks on my server.
+* [-] Continue scaling my home IT laboratory and begin exploring database management systems.
 
 ---
 
